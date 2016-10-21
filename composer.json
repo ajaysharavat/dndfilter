@@ -1,0 +1,14 @@
+{
+    "name": "dndfilter/dndfilter",
+    "type": "library",
+    "description": "Filter DND Numbers",
+    "keywords": ["sms"],
+    "homepage": "https://github.com/ajaysharavat",
+    "license": "BSD-3",
+    "authors": [
+        {
+            "name": "Ajay Sharavat",
+            "email": "ajaysharavat.miet@gmail.com"
+        }
+    ]
+}
