@@ -1,1 +1,3 @@
-<?php echo "ajay Heroke"; ?>
+<?php echo "ajay Heroke"; 
+include("class.php");
+?>
